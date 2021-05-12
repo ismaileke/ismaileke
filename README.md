@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**IsmailEke/IsmailEke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**IsmailEke/IsmailEke** 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +11,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img src="https://github-readme-stats.vercel.app/api?username=ismaileke&&show_icons=true&title_colorbb2acf&text_color=daf7dc&bg_color=151515">
--->
