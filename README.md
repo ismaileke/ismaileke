@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Go**
 - 👯 I’m looking to collaborate on **NULL**
 - 🤔 I’m looking for help with **NULL**
-- 💬 Ask me about **NULL**
 - 📫 How to reach me: **Discord: ismaill#8866**
 - 👉 Always for best...
 
