@@ -1,4 +1,4 @@
-**IsmailEke/IsmailEke** 
+**thronplo/thronplo** 
 
 ![thor](https://user-images.githubusercontent.com/74091824/177789715-7537db56-1cfb-42d6-b698-61613ee46d26.gif)
 
