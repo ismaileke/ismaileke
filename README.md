@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/GE5HOjI9ds4AAAAC/yes.gif"  />
+<img align="right" height="150" src="https://github.com/ismaileke/ismaileke/assets/74091824/0ef38361-6eda-45b9-92d8-42a731b4b844"  />
 
 ###
 
